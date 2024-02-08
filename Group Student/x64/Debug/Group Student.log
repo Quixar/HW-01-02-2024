@@ -1,0 +1,46 @@
+﻿  Group Student.cpp
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(132,38): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(151,38): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(156,42): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(166,54): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(187,54): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(192,42): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(421,13): warning C4566: character represented by universal-character-name '\u041A' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(421,13): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(421,13): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(421,13): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(421,13): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(421,13): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(421,13): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(421,13): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(421,13): warning C4566: character represented by universal-character-name '\u0444' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(421,13): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(421,13): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(421,13): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(424,13): warning C4566: character represented by universal-character-name '\u041A' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(424,13): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(424,13): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(424,13): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(424,13): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(424,13): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(424,13): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(424,13): warning C4566: character represented by universal-character-name '\u0437' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(424,13): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(424,13): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(424,13): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(427,13): warning C4566: character represented by universal-character-name '\u041A' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(427,13): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(427,13): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(427,13): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(427,13): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(427,13): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(427,13): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(427,13): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(427,13): warning C4566: character represented by universal-character-name '\u044F' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(427,13): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(427,13): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(427,13): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(599,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(176): warning C4172: returning address of local variable or temporary: copy
+C:\Users\Quixar\source\repos\Group Student\Group Student.cpp(195): warning C4172: returning address of local variable or temporary: copy
+  Group Student.vcxproj -> C:\Users\Quixar\source\repos\Group Student\x64\Debug\Group Student.exe
